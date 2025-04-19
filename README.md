@@ -1,0 +1,1 @@
+This solution leverages AI and Natural Language Processing to analyze customer reviews and automatically classify them as positive, negative, or neutral—helping businesses gain actionable insights from customer sentiments.
